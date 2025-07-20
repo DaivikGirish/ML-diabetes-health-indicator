@@ -1,9 +1,5 @@
 # Diabetes Health Indicator Classification Project
 
-**Course:** DS 675-102 – Machine Learning  
-**Instructor:** Prof. Khalid Bakhshaliyev  
-**Student:** [Your Name]
-
 ## 🧩 Problem Definition
 
 ### Task
@@ -98,8 +94,7 @@ Key features: BMI, General Health, HighBP, Smoking, Physical Activity
 ├── diabetes_012_health_indicators_BRFSS2015.csv.zip  # Dataset
 ├── DNN_Code.ipynb                              # Deep Neural Network implementation
 ├── Autoencoder.ipynb                           # Autoencoder classifier implementation
-├── presentations/                              # Folder for PPTX presentation files
-└── pdfs/                                       # Folder for PDF files (reports, slides, etc.)
+└── presentations/                              # Folder for  documentation files
 ```
 
 ## 🚀 Getting Started
